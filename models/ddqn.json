@@ -1,0 +1,4 @@
+{
+    "base_config": "../models/dqn.json",
+    "double": true
+}
